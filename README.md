@@ -1,6 +1,6 @@
 ## GroundingDINO_Object_Counter
- - Counting number of occurrences of several objects in single/multiple images
- - Extending the GroundingDINO usability for counting and returning the total items detected
+* Counting number of occurrences of several objects in single/multiple images
+* Extending the GroundingDINO usability for counting and returning the total items detected
 
 
 - **CLASSES:** ['headlamp', 'men underwear', 'book', 'candy', 'paper', 'box', 'bottle'] #Classes to detect in images
