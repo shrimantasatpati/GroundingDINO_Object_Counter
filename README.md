@@ -5,7 +5,7 @@ Count the number of occurrences of various objects in single or multiple images,
 
 ## Configuration
 ### CLASSES 
-#Classes to detect in images. Change the items of the CLASSES list to detect other objects  
+Classes to detect in images. Change the items of the CLASSES list to detect other objects  
 - ['headlamp', 'men underwear', 'book', 'candy', 'paper', 'box', 'bottle']
   (*Modify the items in the CLASSES list to detect different objects.*)
 
