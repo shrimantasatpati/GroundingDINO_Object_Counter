@@ -1,14 +1,22 @@
 ## GroundingDINO_Object_Counter
-* Counting number of occurrences of several objects in single/multiple images
-* Extending the GroundingDINO usability for counting and returning the total items detected
 
-'''
-- **CLASSES:** ['headlamp', 'men underwear', 'book', 'candy', 'paper', 'box', 'bottle'] #Classes to detect in images
-  * Change the items of the CLASSES list to detect other objects
-    
-- **BOX_TRESHOLD:** 0.30
-- **TEXT_TRESHOLD:** 0.20
-'''
+### Objective
+Count the number of occurrences of various objects in single or multiple images, leveraging the capabilities of GroundingDINO. This extension enhances GroundingDINO's usability by incorporating object counting functionality, providing a total count of detected items.
+
+## Configuration
+### CLASSES 
+#Classes to detect in images. Change the items of the CLASSES list to detect other objects  
+- ['headlamp', 'men underwear', 'book', 'candy', 'paper', 'box', 'bottle']
+  (*Modify the items in the CLASSES list to detect different objects.*)
+
+### BOX_THRESHOLD
+- 0.30
+  (*Adjust the threshold for bounding box detection.*)
+
+### TEXT_THRESHOLD
+- 0.20
+  (*Adjust the threshold for text detection.*)
+
 
 ### Output images
 
