@@ -2,13 +2,13 @@
 * Counting number of occurrences of several objects in single/multiple images
 * Extending the GroundingDINO usability for counting and returning the total items detected
 
-```
+'''
 - **CLASSES:** ['headlamp', 'men underwear', 'book', 'candy', 'paper', 'box', 'bottle'] #Classes to detect in images
   * Change the items of the CLASSES list to detect other objects
     
 - **BOX_TRESHOLD:** 0.30
 - **TEXT_TRESHOLD:** 0.20
-```
+'''
 
 ### Output images
 
