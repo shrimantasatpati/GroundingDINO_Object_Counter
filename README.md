@@ -67,16 +67,11 @@ Grounding DINO can detect **arbitrary objects** with human inputs such as catego
 ### Contributing
 
 Contributions to the GroundingDINO Object Counter are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository to your own GitHub account.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and ensure that the code passes all tests.
-
-4. Create a pull request to the main repository, explaining your changes and improvements.
-
-5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
+- Fork the repository to your own GitHub account.
+- Create a new branch for your feature or bug fix.
+- Make your changes and ensure that the code passes all tests.
+- Create a pull request to the main repository, explaining your changes and improvements.
+- Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
 
 ### License
 
