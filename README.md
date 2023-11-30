@@ -56,7 +56,7 @@ In this tutorial, we are going to cover:
 Credits - Inspired from [RoboFlow](https://github.com/roboflow/notebooks/tree/main/notebooks) GroundingDINO notebooks
 - Research articles
    * [GroundingDINO Paper](https://arxiv.org/abs/2303.05499)
-   * [Exaplanations](https://www.ikomia.ai/blog/grounding-dino-zero-shot-detection-explained)
+   * [Explanations](https://www.ikomia.ai/blog/grounding-dino-zero-shot-detection-explained)
 
 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/IDEA-Research/GroundingDINO) [![arXiv](https://img.shields.io/badge/arXiv-2303.05499-b31b1b.svg)](https://arxiv.org/abs/2303.05499)
 
