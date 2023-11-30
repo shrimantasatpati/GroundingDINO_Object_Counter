@@ -1,4 +1,14 @@
 ## GroundingDINO_Object_Counter
+## Table of Contents
+
+- [Introduction](#langchain-medical-bot)
+- [Table of Contents](#table-of-contents)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ### Objective
 Count the number of occurrences of various objects in single or multiple images, leveraging the capabilities of GroundingDINO. This extension enhances GroundingDINO's usability by incorporating object counting functionality, providing a total count of detected items.
@@ -54,4 +64,28 @@ Credits - Inspired from [RoboFlow](https://github.com/roboflow/notebooks/tree/ma
 Grounding DINO can detect **arbitrary objects** with human inputs such as category names or referring expressions. The key solution of open-set object detection is introducing language to a closed-set detector DINO. for open-set concept generalization. If you want to learn more visit official GitHub [repository](https://github.com/IDEA-Research/GroundingDINO) and read the [paper](https://arxiv.org/abs/2303.05499).
 
 ![grounding dino figure](https://media.roboflow.com/notebooks/examples/grounding-dino-figure.png)
+
+### Contributing
+
+Contributions to the GroundingDINO Object Counter are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository to your own GitHub account.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make your changes and ensure that the code passes all tests.
+
+4. Create a pull request to the main repository, explaining your changes and improvements.
+
+5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
+
+### License
+
+This project is licensed under the MIT License.
+
+---
+
+For more information on how to use, configure, and extend the GroundingDINO Object Counter, please refer to the GroundingDINO paper and Roboflow notebooks or contact the project maintainer.
+
+Happy coding with GroundingDINO_Object_Counter! 🚀
 
