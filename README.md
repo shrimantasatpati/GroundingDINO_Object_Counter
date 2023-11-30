@@ -1,12 +1,11 @@
 ## GroundingDINO_Object_Counter
 ## Table of Contents
 
-- [Introduction](#langchain-medical-bot)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Objective](#langchain-medical-bot)
+- [Configuration](#table-of-contents)
+- [Output images](#prerequisites)
+- [Steps in this Tutorial](#installation)
+- [Dataset Link](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
 
